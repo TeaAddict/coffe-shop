@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 import coffie1 from "../assets/images/coffie1.jpg";
 import coffie2 from "../assets/images/coffie2.jpg";
 import coffie3 from "../assets/images/coffie3.jpg";
@@ -29,7 +27,6 @@ const eventsData = {
     },
   ],
 };
->>>>>>> Mainer
 
 const EventCard = ({ title, date, image }) => (
   <div style={styles.card}>
