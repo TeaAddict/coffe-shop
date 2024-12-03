@@ -3,6 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <>
+      
       <header className=" flex justify-between items-center m-3 font-medium ">
         <section className=" flex gap-1">
           <h1 >IMAJI</h1>
@@ -26,6 +27,7 @@ const Header = () => {
           </section>
         </nav>
       </header>
+      
     </>
   );
 };
